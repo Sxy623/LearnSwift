@@ -2,7 +2,7 @@
 
 ## Preview
 
-<img src="Images/image.png" width="400"/>
+<img src="Images/image1.png" width="400"/> <img src="Images/image2.png" width="400"/>
 
 ## Projects
 
@@ -15,3 +15,8 @@
 - [Egg Timer](https://github.com/Sxy623/LearnSwift/tree/master/Egg%20Timer)
 - [Quizzler](https://github.com/Sxy623/LearnSwift/tree/master/Quizzler)
 - [Destini](https://github.com/Sxy623/LearnSwift/tree/master/Destini)
+- [BMI Calculator](https://github.com/Sxy623/LearnSwift/tree/master/BMI%20Calculator)
+- [Tipsy](https://github.com/Sxy623/LearnSwift/tree/master/Tipsy)
+- [Clima](https://github.com/Sxy623/LearnSwift/tree/master/Clima)
+- [Byte Coin](https://github.com/Sxy623/LearnSwift/tree/master/Byte%20Coin)
+
