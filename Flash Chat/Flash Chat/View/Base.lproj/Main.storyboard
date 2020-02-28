@@ -341,7 +341,13 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Rv9-Fx-wj3"/>
                     </view>
-                    <navigationItem key="navigationItem" id="cYN-hY-I09"/>
+                    <navigationItem key="navigationItem" id="cYN-hY-I09">
+                        <barButtonItem key="rightBarButtonItem" title="Log Out" id="29E-ti-gs9">
+                            <connections>
+                                <action selector="logOutPresses:" destination="mLP-vo-RM6" id="GTw-4m-qmK"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                     <connections>
                         <outlet property="messageTextfield" destination="BQh-8m-tWN" id="U0x-MX-c8x"/>
                         <outlet property="tableView" destination="MEA-pC-dia" id="osZ-4m-baO"/>

@@ -4,6 +4,9 @@
 # Build generated
 build/
 DerivedData/
+
+# Privacy
+GoogleService-Info.plist
  
 # Various settings
 *.pbxuser
@@ -22,7 +25,6 @@ xcuserdata/
 *.xcworkspace
 !default.xcworkspace
 *.xcscmblueprint
- 
  
 # Obj-C/Swift specific
 *.hmap
