@@ -21,5 +21,4 @@ class ChatViewController: UIViewController {
     @IBAction func sendPressed(_ sender: UIButton) {
     }
     
-
 }
