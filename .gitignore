@@ -40,6 +40,13 @@ Pods
 # Carthage
 Carthage/Build
 Carthage/Checkouts
+
+# Swift Package Manager
+Packages/
+Package.pins
+Package.resolved
+.build/
+.swiftpm/xcode
  
 # fastlane
 fastlane/report.xml
