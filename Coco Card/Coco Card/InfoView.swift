@@ -8,7 +8,6 @@
 
 import SwiftUI
 
-
 struct InfoView: View {
     
     let imageName: String
@@ -23,11 +22,11 @@ struct InfoView: View {
                     Image(systemName: imageName)
                         .foregroundColor(.green)
                     Text(text)
+                        .foregroundColor(.black)
             })
             .padding(.all)
     }
 }
-
 
 struct InfoView_Previews: PreviewProvider {
     static var previews: some View {
