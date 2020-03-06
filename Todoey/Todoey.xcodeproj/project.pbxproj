@@ -11,6 +11,7 @@
 		9093E48024124B17001748C7 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9093E47F24124B17001748C7 /* CategoryViewController.swift */; };
 		9093E4842412682E001748C7 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9093E4832412682E001748C7 /* Item.swift */; };
 		9093E48624126837001748C7 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9093E48524126837001748C7 /* Category.swift */; };
+		9093E48824128C91001748C7 /* SwipeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9093E48724128C91001748C7 /* SwipeTableViewController.swift */; };
 		90ABE358240BF84B00E21BAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90ABE357240BF84B00E21BAF /* AppDelegate.swift */; };
 		90ABE35A240BF84B00E21BAF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90ABE359240BF84B00E21BAF /* SceneDelegate.swift */; };
 		90ABE35F240BF84B00E21BAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90ABE35D240BF84B00E21BAF /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 		9093E47F24124B17001748C7 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		9093E4832412682E001748C7 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		9093E48524126837001748C7 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		9093E48724128C91001748C7 /* SwipeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTableViewController.swift; sourceTree = "<group>"; };
 		90ABE354240BF84B00E21BAF /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90ABE357240BF84B00E21BAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90ABE359240BF84B00E21BAF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 			children = (
 				9093E47F24124B17001748C7 /* CategoryViewController.swift */,
 				9024B0CB240E19CB002A486C /* TodoListViewController.swift */,
+				9093E48724128C91001748C7 /* SwipeTableViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				9093E48024124B17001748C7 /* CategoryViewController.swift in Sources */,
 				9024B0CC240E19CB002A486C /* TodoListViewController.swift in Sources */,
 				90ABE358240BF84B00E21BAF /* AppDelegate.swift in Sources */,
+				9093E48824128C91001748C7 /* SwipeTableViewController.swift in Sources */,
 				9093E4842412682E001748C7 /* Item.swift in Sources */,
 				90ABE35A240BF84B00E21BAF /* SceneDelegate.swift in Sources */,
 				9093E48624126837001748C7 /* Category.swift in Sources */,
