@@ -7,6 +7,9 @@ DerivedData/
 
 # Privacy
 GoogleService-Info.plist
+
+# Model
+*.mlmodel
  
 # Various settings
 *.pbxuser

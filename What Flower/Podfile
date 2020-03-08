@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '13.0'
+
+target 'What Flower' do
+  use_modular_headers!
+
+  # Pods for What Flower
+  pod 'Alamofire', '~> 5.0'
+  pod 'SwiftyJSON', '~> 5.0'
+  pod 'SDWebImage', '~> 5.0'
+
+end
