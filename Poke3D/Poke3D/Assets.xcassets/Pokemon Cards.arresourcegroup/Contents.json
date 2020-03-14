@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Bulbasaur.arreferenceimage"
+    },
+    {
+      "filename" : "Charizard.arreferenceimage"
+    },
+    {
+      "filename" : "Eevee.arreferenceimage"
+    },
+    {
+      "filename" : "Oddish.arreferenceimage"
+    },
+    {
+      "filename" : "Pikachu.arreferenceimage"
+    }
+  ]
+}
