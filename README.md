@@ -76,3 +76,22 @@
   - Observer design pattern
   - WebKit
   - Project Catalyst
+- [Todoey](https://github.com/Sxy623/LearnSwift/tree/master/Todoey)
+  - Local data persistance
+  - Core data
+  - Realm
+- [See Food](https://github.com/Sxy623/LearnSwift/tree/master/See%20Food)
+  - CoreML
+- [What Flower](https://github.com/Sxy623/LearnSwift/tree/master/What%20Flower)
+  - CoreML
+- [AR Dicee](https://github.com/Sxy623/LearnSwift/tree/master/AR%20Dicee)
+  - ARKit
+  - Plane detection
+- [AR Ruler](https://github.com/Sxy623/LearnSwift/tree/master/AR%20Ruler)
+  - ARKit
+- [Poke3D](https://github.com/Sxy623/LearnSwift/tree/master/Poke3D)
+  - ARKit 2
+  - Image tracking
+- [Magic Paper](https://github.com/Sxy623/LearnSwift/tree/master/Magic%20Paper)
+  - ARKit 2
+  - Live video
