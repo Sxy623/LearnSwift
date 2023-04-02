@@ -16,8 +16,8 @@ class ViewController: UIViewController {
     
     let eggTimes = ["Soft" : 5, "Medium" : 8, "Hard" : 12]
     var timer = Timer()
-    var totalTime = 0;
-    var secondsPassed = 0;
+    var totalTime = 0
+    var secondsPassed = 0
     var player: AVAudioPlayer!
     
     @IBAction func hardnessSelected(_ sender: UIButton) {

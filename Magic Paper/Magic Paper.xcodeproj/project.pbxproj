@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		90089272241CE037003FB761 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90089271241CE037003FB761 /* AppDelegate.swift */; };
-		90089274241CE037003FB761 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 90089273241CE037003FB761 /* art.scnassets */; };
 		90089276241CE037003FB761 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90089275241CE037003FB761 /* ViewController.swift */; };
 		90089279241CE037003FB761 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90089277241CE037003FB761 /* Main.storyboard */; };
 		9008927B241CE039003FB761 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9008927A241CE039003FB761 /* Assets.xcassets */; };
@@ -20,7 +19,6 @@
 /* Begin PBXFileReference section */
 		9008926E241CE037003FB761 /* Magic Paper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Magic Paper.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90089271241CE037003FB761 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		90089273241CE037003FB761 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		90089275241CE037003FB761 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		90089278241CE037003FB761 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9008927A241CE039003FB761 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 				90089271241CE037003FB761 /* AppDelegate.swift */,
 				90089275241CE037003FB761 /* ViewController.swift */,
 				90089277241CE037003FB761 /* Main.storyboard */,
-				90089273241CE037003FB761 /* art.scnassets */,
 				9008927A241CE039003FB761 /* Assets.xcassets */,
 				9008927C241CE039003FB761 /* LaunchScreen.storyboard */,
 				9008927F241CE039003FB761 /* Info.plist */,
@@ -131,7 +128,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90089274241CE037003FB761 /* art.scnassets in Resources */,
 				9008927E241CE039003FB761 /* LaunchScreen.storyboard in Resources */,
 				90089286241CE070003FB761 /* harrypotter.mp4 in Resources */,
 				90089288241CE72A003FB761 /* newspaper.jpg in Resources */,
